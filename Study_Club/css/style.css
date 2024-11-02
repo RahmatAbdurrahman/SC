@@ -1,0 +1,20 @@
+:root {
+    --primary: #0d6db7;
+    --bg: #fff;
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    border: none;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Poppind', sans-serif;
+    background-color: var(--bg);
+    color: #fff;
+}
